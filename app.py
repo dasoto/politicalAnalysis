@@ -9,7 +9,7 @@ from datacollection import generateJson
 
 
 app = Flask(__name__)
-app.secret_key = 'mysecretkey2017dsm'
+app.secret_key = 'XXXX'
 
 #graph1
 @app.route('/senate', methods=['GET'])

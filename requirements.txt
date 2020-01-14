@@ -13,7 +13,7 @@ numpy==1.13.1
 pandas==0.20.3
 python-dateutil==1.5
 pytz==2017.2
-requests==2.18.1
+requests==2.20.0
 scikit-learn==0.18.2
 scipy==0.19.1
 sklearn==0.0

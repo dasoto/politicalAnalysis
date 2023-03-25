@@ -18,5 +18,5 @@ scikit-learn==0.18.2
 scipy==0.19.1
 sklearn==0.0
 urllib3==1.26.5
-Werkzeug==0.15.3
+Werkzeug==0.15.5
 WTForms==2.1
